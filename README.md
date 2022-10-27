@@ -18,4 +18,13 @@ JPA Project Example
   - Spring Data JPA
   - H2 Database
   - Lombok
-  
+
+# Project Structure
+1. src/main/java
+  - com.example.jpa
+  - com.example.jpa.controller
+  - com.example.jpa.entity
+  - com.example.jpa.repository
+  - com.example.jpa.service
+2. src/main/resources
+  - application.yml
